@@ -1,0 +1,73 @@
+@media (max-width:768px) {
+       .col-phone-1 {
+         width: 25%;
+         box-sizing: border-box;
+         float: left;
+       }
+      .col-phone-2 {
+         width: 50%;
+         box-sizing: border-box;
+         float: left;
+       }
+      .col-phone-3 {
+         width: 75%;
+         box-sizing: border-box;
+         float: left;
+       }
+      .col-phone-4 {
+         width: 100%;
+         box-sizing: border-box;
+         float: left;
+       }
+    }
+    
+    @media (min-width:769px) and (max-width: 992px) {
+       .col-pad-1 {
+         width: 25%;
+         box-sizing: border-box;
+         float: left;
+       }
+      .col-pad-2 {
+         width: 50%;
+         box-sizing: border-box;
+         float: left;
+       }
+      .col-pad-3 {
+         width: 75%;
+         box-sizing: border-box;
+         float: left;
+       }
+      .col-pad-4 {
+         width: 100%;
+         box-sizing: border-box;
+         float: left;
+       }
+    }
+    
+    @media (min-width:993px) {
+       .col-pc-1 {
+         width: 25%;
+         box-sizing: border-box;
+         float: left;
+       }
+      .col-pc-2 {
+         width: 50%;
+         box-sizing: border-box;
+         float: left;
+       }
+      .col-pc-3 {
+         width: 75%;
+         box-sizing: border-box;
+         float: left;
+       }
+      .col-pc-4 {
+         width: 100%;
+         box-sizing: border-box;
+         float: left;
+       } 
+    }
+    
+    .option {
+      height: 200px;
+      border: 1px solid #000;
+    }
